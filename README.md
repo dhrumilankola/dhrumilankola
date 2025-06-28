@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DhrumilAnkola&fontSize=70&fontAlignY=38&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Connecting+pixels+to+databases.;Tinkering+with+LLMs+and+RAG.;Building tools for Developers." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Connecting+pixels+to+databases.;Tinkering+with+LLMs+and+RAG.;Building+tools+for+developers." alt="Typing SVG" /></a>
+
 
 <p>
   <a href="https://dhrumilankola.netlify.app/" target="_blank">
