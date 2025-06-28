@@ -85,7 +85,7 @@
     <td width="33%" valign="top" align="center">
       <a href="YOUR_PROJECT_LINK_HERE" target="_blank">
         <img src="YOUR_LINK_TO_STUDY_BUDDY_DEMO.gif" alt="Study Buddy Demo" width="100%"/>
-        <h3>Study Buddy (Hackathon)</h3>
+        <h3>Study Buddy - Your AI Study Partner</h3>
       </a>
       <em>Reduced context errors by 70%</em>
       <p>
