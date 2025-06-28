@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00BFFF&height=300&section=header&text=DhrumilAnkola&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Building%20with%20Python,%20React%20&%20Coffee&descAlignY=55&descAlign=68" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DhrumilAnkola&fontSize=70&fontAlignY=38&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Connecting+pixels+to+databases.;Tinkering+with+LLMs+and+RAG.;Turning+coffee+into+production+code." alt="Typing SVG" /></a>
 
@@ -59,7 +59,7 @@
   </tr>
 </table>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/section-divider.svg" alt="Recent Work" />
+  <img src="assets/section-divider.svg" alt="Recent Work" />
 </p>
 
 <table width="100%">
@@ -98,7 +98,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/connect-divider.svg" alt="Let's Connect" />
+  <img src="assets/connect-divider.svg" alt="Let's Connect" />
 </p>
 
 <p>I'm always open to talking about new technologies, startup ideas, or exciting opportunities. Feel free to reach out!</p>
