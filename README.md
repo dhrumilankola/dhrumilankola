@@ -23,7 +23,7 @@
 <table width="100%">
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/spark-icon.svg" width="100px" alt="Spark Icon"/>
+      <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/spark-icon.svg" width="100px" alt="Spark Icon"/>
     </td>
     <td width="65%" valign="middle">
       <h3>Deconstruct to Understand</h3>
@@ -36,12 +36,12 @@
       <p align="right">I thrive on turning complex challenges—like optimizing a database query or designing a seamless API—into clean, elegant code that delivers a frictionless user experience.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/drive-icon.svg" width="100px" alt="Drive Icon"/>
+      <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/drive-icon.svg" width="100px" alt="Drive Icon"/>
     </td>
   </tr>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/ambition-icon.svg" width="100px" alt="Ambition Icon"/>
+      <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/ambition-icon.svg" width="100px" alt="Ambition Icon"/>
     </td>
     <td width="65%" valign="middle">
       <h3>Ship Products That Matter</h3>
@@ -54,13 +54,11 @@
       <p align="right">When I'm not coding, I believe in recharging. You'll find me on a hiking trail, staying active, or exploring for the perfect cup of coffee.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/balance-icon.svg" width="100px" alt="Balance Icon"/>
+      <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/balance-icon.svg" width="100px" alt="Balance Icon"/>
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="assets/section-divider.svg" alt="Recent Work" />
-</p>
+<img src="https://reheader.glitch.me/api/reheader?title=Recent%20Work&symbol=%E2%9C%A8&color=00BFFF" alt="Recent Work Divider" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -97,10 +95,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/connect-divider.svg" alt="Let's Connect" />
-</p>
+<img src="https://reheader.glitch.me/api/reheader?title=Let's%20Connect&symbol=%F0%9F%92%AC&color=00BFFF" alt="Let's Connect Divider" width="100%"/>
 
 <p>I'm always open to talking about new technologies, startup ideas, or exciting opportunities. Feel free to reach out!</p>
+
 
 </div>
