@@ -58,7 +58,10 @@
     </td>
   </tr>
 </table>
-<img src="https://reheader.glitch.me/api/reheader?title=Recent%20Work&symbol=%E2%9C%A8&color=00BFFF" alt="Recent Work Divider" width="100%"/>
+<h3 align="center">✨ Recent Work ✨</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umar-ahmed-dev/umar-ahmed-dev/main/assets/line.svg" width="100%" />
+</p>
 
 <table width="100%">
   <tr>
@@ -95,7 +98,10 @@
   </tr>
 </table>
 
-<img src="https://reheader.glitch.me/api/reheader?title=Let's%20Connect&symbol=%F0%9F%92%AC&color=00BFFF" alt="Let's Connect Divider" width="100%"/>
+<h3 align="center">💬 Let's Connect 💬</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umar-ahmed-dev/umar-ahmed-dev/main/assets/line.svg" width="100%" />
+</p>
 
 <p>I'm always open to talking about new technologies, startup ideas, or exciting opportunities. Feel free to reach out!</p>
 
