@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dhrumil%20Ankola&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Building%20cool%20things%20with%20code%20and%20coffee&descAlignY=55&descAlign=68" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DhrumilAnkola()&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Building%20with%20Python,%20React%20&%20AI&descAlignY=55&descAlign=68" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3366FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Creative+Problem-Solver;Aspiring+Founder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3366FF&center=true&vCenter=true&width=550&lines=Fine-tuning+%26+deploying+LLMs;Building+scalable+full-stack+systems;From+idea+to+production-ready+code" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://dhrumilankola.netlify.app/" target="_blank">
@@ -18,26 +18,26 @@
 
 ---
 
-### My Philosophy
+### Philosophy
 
 <table>
   <tr>
     <td width="33.3%" valign="top">
       <div align="center">
-        <h3>🎮 The Spark (Curiosity)</h3>
-        <p>It all started with video games. I wasn't just playing; I was deconstructing them in my head, fascinated by the magic behind the screen. This curiosity drives me to look inside the black box and understand how things <em>really</em> work.</p>
+        <h3>🎮 Spark: Deconstruct to Understand</h3>
+        <p>From deconstructing video games to understand their magic, to diving into the internals of complex systems. It's all about looking inside the black box to find out how things <em>truly</em> work.</p>
       </div>
     </td>
     <td width="33.3%" valign="top">
       <div align="center">
-        <h3>💡 The Drive (Creation)</h3>
-        <p>That curiosity evolved into a passion for building. From my first lines of code to deploying full-stack AI applications, my motivation is turning complex problems into elegant, user-friendly solutions that feel like magic to use.</p>
+        <h3>💡 Drive: Turn Complexity into Elegance</h3>
+        <p>The focus is turning complex problems into clean code. Building seamless frontends, scalable backends, and intelligent AI models that deliver a frictionless user experience.</p>
       </div>
     </td>
     <td width="33.3%" valign="top">
       <div align="center">
-        <h3>🚀 The Ambition (Impact)</h3>
-        <p>Today, my focus is on creating tangible impact. I'm looking to join an ambitious startup or collaborate on products that leverage AI to make a real difference, turning great ideas into production-ready realities.</p>
+        <h3>🚀 Ambition: Ship Products That Matter</h3>
+        <p>The goal is shipping production-ready software. Applying AI and full-stack principles in fast-paced environments, especially early-stage startups, to turn ambitious ideas into reality.</p>
       </div>
     </td>
   </tr>
@@ -84,11 +84,33 @@
 
 ---
 
-### 🛠️ My Tech Stack
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,sql,pytorch,tensorflow,gcp,aws,docker,kubernetes,jenkins,git,react,nodejs,django,laravel,express,mysql,mongodb&perline=9" />
-  </a>
-</p>
+### Core Competencies
+
+<table width="100%" style="border: none;">
+  <tr>
+    <th align="left">Languages & Algorithms</th>
+    <th align="left">AI / ML</th>
+    <th align="left">Cloud & DevOps</th>
+    <th align="left">Frameworks & Databases</th>
+  </tr>
+  <tr >
+    <td>Python, JavaScript, Go, SQL</td>
+    <td>LLMs, RAG, Fine-Tuning</td>
+    <td>GCP, AWS, Kubernetes</td>
+    <td>React.js, Django, Laravel</td>
+  </tr>
+  <tr>
+    <td>Data Structures</td>
+    <td>PyTorch, LangChain</td>
+    <td>Docker, CI/CD, Jenkins</td>
+    <td>Node.js, Express</td>
+  </tr>
+   <tr>
+    <td>System Design</td>
+    <td>Vector Databases (ChromaDB)</td>
+    <td>Microservices</td>
+    <td>MySQL, MongoDB</td>
+  </tr>
+</table>
 
 </div>
