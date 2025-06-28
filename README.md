@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00BFFF&height=300&section=header&text=DhrumilAnkola()&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Building%20with%20Python,%20React%20&%20Coffee&descAlignY=55&descAlign=68" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=00BFFF&height=300&section=header&text=DhrumilAnkola&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Building%20with%20Python,%20React%20&%20Coffee&descAlignY=55&descAlign=68" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Connecting+pixels+to+databases.;Tinkering+with+LLMs+and+RAG.;Turning+coffee+into+production+code." alt="Typing SVG" /></a>
 
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p>📍 Los Angeles, CA &nbsp; | &nbsp; 🚀 Building an AI-powered assistant for job seekers &nbsp; | &nbsp; 💡 Open to opportunities in AI Engineering.</p>
+<p>📍 Riverside, CA &nbsp; | &nbsp; 🚀 Building an AI-powered assistant for job seekers &nbsp; | &nbsp; 💡 Open to opportunities in AI Engineering.</p>
 
 ---
 
@@ -58,7 +58,9 @@
     </td>
   </tr>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=80&section=header&text=Recent%20Work&fontSize=30" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/section-divider.svg" alt="Recent Work" />
+</p>
 
 <table width="100%">
   <tr>
@@ -95,7 +97,9 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=80&section=header&text=Let's%20Connect&fontSize=30" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/connect-divider.svg" alt="Let's Connect" />
+</p>
 
 <p>I'm always open to talking about new technologies, startup ideas, or exciting opportunities. Feel free to reach out!</p>
 
