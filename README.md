@@ -18,25 +18,69 @@
 
 ---
 
-### 📍 My Journey
+### My Philosophy
 
-My story is one of curiosity, building, and continuous learning.
-
-| Period      | Milestone                                                                                                     |
-| :---------- | :------------------------------------------------------------------------------------------------------------ |
-| **`2012-2014`** | **🎮 Gamer First, Builder Later:** My love for technology started in the virtual worlds of video games, sparking a desire to understand how they were built. |
-| **`2014`** | **💻 First Lines of Code:** In 8th grade, I wrote my first program. That moment of creation was a turning point, and I've been hooked on building ever since. |
-| **`2019-2023`** | **🎓 B.Tech in IT:** I formalized my passion at BVM Engineering College, diving deep into the fundamentals of software and information technology. |
-| **`2023-2025`** | **🏢 M.S. in Computer Science:** At the University of California, Riverside, I specialized in scalable systems and production-grade AI, preparing for the next generation of tech challenges. |
-| **`Today`** | **🚀 Still Climbing:** Now, I'm channeling my skills into building user-centric products, looking to join an ambitious startup, and collaborating on projects that solve real problems. |
+<table>
+  <tr>
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h3>🎮 The Spark (Curiosity)</h3>
+        <p>It all started with video games. I wasn't just playing; I was deconstructing them in my head, fascinated by the magic behind the screen. This curiosity drives me to look inside the black box and understand how things <em>really</em> work.</p>
+      </div>
+    </td>
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h3>💡 The Drive (Creation)</h3>
+        <p>That curiosity evolved into a passion for building. From my first lines of code to deploying full-stack AI applications, my motivation is turning complex problems into elegant, user-friendly solutions that feel like magic to use.</p>
+      </div>
+    </td>
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h3>🚀 The Ambition (Impact)</h3>
+        <p>Today, my focus is on creating tangible impact. I'm looking to join an ambitious startup or collaborate on products that leverage AI to make a real difference, turning great ideas into production-ready realities.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Open to Collaboration & Startup Opportunities
+### ✨ Project Spotlight
 
-I am actively seeking to join an **ambitious, early-stage startup** where I can make a significant impact. I love working in fast-paced environments and helping shape foundational technology.
-
-I'm also designing a product to **revolutionize the student job application process** using an **AI Agent-based architecture**. If you're a founder, recruiter, or developer who shares a passion for building transformative products, **let's connect!**
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="YOUR_PROJECT_LINK_HERE" target="_blank">
+        <img src="YOUR_LINK_TO_ANOMALY_DETECTION_DEMO.gif" alt="LLM Anomaly Detection Demo" width="100%"/>
+        <h3>LLM Anomaly Detection</h3>
+      </a>
+      <em>Cut Mean Time To Resolution by 40%</em>
+      <p>
+        <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,python,go" />
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="YOUR_PROJECT_LINK_HERE" target="_blank">
+        <img src="YOUR_LINK_TO_PYASTERIX_DEMO.gif" alt="PyAsterix Demo" width="100%"/>
+        <h3>PyAsterix (Open-Source)</h3>
+      </a>
+      <em>Boosted query performance by 40%</em>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,pandas,pytest" />
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="YOUR_PROJECT_LINK_HERE" target="_blank">
+        <img src="YOUR_LINK_TO_STUDY_BUDDY_DEMO.gif" alt="Study Buddy Demo" width="100%"/>
+        <h3>Study Buddy (Hackathon)</h3>
+      </a>
+      <em>Reduced context errors by 70%</em>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,django,python,tailwind" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,53 +90,5 @@ I'm also designing a product to **revolutionize the student job application proc
     <img src="https://skillicons.dev/icons?i=python,javascript,cpp,sql,pytorch,tensorflow,gcp,aws,docker,kubernetes,jenkins,git,react,nodejs,django,laravel,express,mysql,mongodb&perline=9" />
   </a>
 </p>
-
----
-
-### ✨ Project Spotlight
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>LLM-Powered Anomaly Detection</h3>
-      <p>Built an LLM detector (F1 ≈ 0.90) with PEFT & RAG that automates root cause analysis, <strong>cutting Mean Time To Resolution by 40%</strong>.</p>
-      <p><strong>Tech:</strong> GKE, Kubernetes, Vertex AI, RAG, Go, Python</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="YOUR_LINK_TO_ANOMALY_DETECTION_DEMO.gif" alt="LLM Anomaly Detection Demo" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>PyAsterix (Open-Source)</h3>
-      <p>Contributed to the official Python driver for Apache AsterixDB, <strong>boosting query performance by 40%</strong> on multi-million record workloads.</p>
-      <p><strong>Tech:</strong> Python, Pandas, PyTest, Distributed Systems</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="YOUR_LINK_TO_PYASTERIX_DEMO.gif" alt="PyAsterix Demo" />
-    </td>
-  </tr>
-    <tr>
-    <td width="50%" valign="top">
-      <h3>Study Buddy (CalHacks)</h3>
-      <p>An empathetic AI tutor that <strong>reduced out-of-context errors by 70%</strong> by implementing a novel RAG pipeline with a custom context protocol.</p>
-      <p><strong>Tech:</strong> React, Django, LangChain, RAG, Hume AI, ChromaDB</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="YOUR_LINK_TO_STUDY_BUDDY_DEMO.gif" alt="Study Buddy Demo" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhrumilankola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilankola&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/output/github-contribution-grid-snake.svg" />
 
 </div>
