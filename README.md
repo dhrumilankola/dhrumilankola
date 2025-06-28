@@ -59,9 +59,6 @@
   </tr>
 </table>
 <h3 align="center">✨ Recent Work ✨</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/umar-ahmed-dev/umar-ahmed-dev/main/assets/line.svg" width="100%" />
-</p>
 
 <table width="100%">
   <tr>
@@ -99,9 +96,7 @@
 </table>
 
 <h3 align="center">💬 Let's Connect 💬</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/umar-ahmed-dev/umar-ahmed-dev/main/assets/line.svg" width="100%" />
-</p>
+
 
 <p>I'm always open to talking about new technologies, startup ideas, or exciting opportunities. Feel free to reach out!</p>
 
