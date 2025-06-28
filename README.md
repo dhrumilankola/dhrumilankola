@@ -16,6 +16,8 @@
   </a>
 </p>
 
+<p>📍 Currently based in Riverside, CA & building an AI-powered assistant for job seekers. Open to opportunities in AI Engineering.</p>
+
 ---
 
 ### Philosophy
@@ -25,19 +27,19 @@
     <td width="33.3%" valign="top">
       <div align="center">
         <h3>🎮 Spark: Deconstruct to Understand</h3>
-        <p>From deconstructing video games to understand their magic, to diving into the internals of complex systems. It's all about looking inside the black box to find out how things <em>truly</em> work.</p>
+        <p>My journey began trying to mod games like <em>Counter-Strike</em>, fascinated by the magic behind the screen. That desire to look inside the black box and see how things <em>truly</em> work still drives me today.</p>
       </div>
     </td>
     <td width="33.3%" valign="top">
       <div align="center">
         <h3>💡 Drive: Turn Complexity into Elegance</h3>
-        <p>The focus is turning complex problems into clean code. Building seamless frontends, scalable backends, and intelligent AI models that deliver a frictionless user experience.</p>
+        <p>I thrive on turning complex challenges—like optimizing a database query or designing a seamless API—into clean, elegant code that delivers a frictionless user experience.</p>
       </div>
     </td>
     <td width="33.3%" valign="top">
       <div align="center">
         <h3>🚀 Ambition: Ship Products That Matter</h3>
-        <p>The goal is shipping production-ready software. Applying AI and full-stack principles in fast-paced environments, especially early-stage startups, to turn ambitious ideas into reality.</p>
+        <p>The goal is to build software with real-world impact, like the "Perfect Student Assistant" I'm currently designing. I'm looking to join an early-stage startup and help turn ambitious ideas into reality.</p>
       </div>
     </td>
   </tr>
@@ -55,6 +57,7 @@
         <h3>LLM Anomaly Detection</h3>
       </a>
       <em>Cut Mean Time To Resolution by 40%</em>
+      <p>My first dive into production-level MLOps, where I learned firsthand the importance of system reliability.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,python,go" />
       </p>
@@ -65,6 +68,7 @@
         <h3>PyAsterix (Open-Source)</h3>
       </a>
       <em>Boosted query performance by 40%</em>
+      <p>A rewarding open-source contribution where I collaborated with a distributed team to optimize a core feature.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=python,pandas,pytest" />
       </p>
@@ -75,6 +79,7 @@
         <h3>Study Buddy (Hackathon)</h3>
       </a>
       <em>Reduced context errors by 70%</em>
+      <p>A whirlwind 24-hour build that pushed the limits of modern AI to create an empathetic, responsive tutor.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=react,django,python,tailwind" />
       </p>
@@ -112,5 +117,12 @@
     <td>MySQL, MongoDB</td>
   </tr>
 </table>
+
+---
+
+### Let's Connect
+
+<p>I'm always open to talking about new technologies, startup ideas, or exciting opportunities. Feel free to reach out!</p>
+
 
 </div>
