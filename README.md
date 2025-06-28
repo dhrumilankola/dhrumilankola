@@ -16,14 +16,14 @@
   </a>
 </p>
 
-<p>📍 Riverside, CA &nbsp; | &nbsp; 🚀 Building an AI-powered assistant for job seekers &nbsp; | &nbsp; 💡 Open to opportunities in AI Engineering.</p>
+<p>📍 Los Angeles, CA &nbsp; | &nbsp; 🚀 Building an AI-powered assistant for job seekers &nbsp; | &nbsp; 💡 Open to opportunities in AI Engineering.</p>
 
 ---
 
 <table width="100%">
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/spark-icon.svg" width="100px" alt="Spark Icon"/>
+      <img src="https://api.iconify.design/mdi/controller-classic-outline.svg?color=%2300bfff" width="90px" alt="Spark Icon (Gamepad)"/>
     </td>
     <td width="65%" valign="middle">
       <h3>Deconstruct to Understand</h3>
@@ -36,12 +36,12 @@
       <p align="right">I thrive on turning complex challenges—like optimizing a database query or designing a seamless API—into clean, elegant code that delivers a frictionless user experience.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/drive-icon.svg" width="100px" alt="Drive Icon"/>
+      <img src="https://api.iconify.design/tabler/brain.svg?color=%2300bfff" width="90px" alt="Drive Icon (Brain)"/>
     </td>
   </tr>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/ambition-icon.svg" width="100px" alt="Ambition Icon"/>
+      <img src="https://api.iconify.design/ion/rocket-outline.svg?color=%2300bfff" width="90px" alt="Ambition Icon (Rocket)"/>
     </td>
     <td width="65%" valign="middle">
       <h3>Ship Products That Matter</h3>
@@ -54,7 +54,7 @@
       <p align="right">When I'm not coding, I believe in recharging. You'll find me on a hiking trail, staying active, or exploring for the perfect cup of coffee.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/dhrumilankola/dhrumilankola/main/assets/balance-icon.svg" width="100px" alt="Balance Icon"/>
+      <img src="https://api.iconify.design/ph/coffee-bold.svg?color=%2300bfff" width="90px" alt="Balance Icon (Coffee)"/>
     </td>
   </tr>
 </table>
