@@ -67,7 +67,7 @@
         <img src="YOUR_LINK_TO_ANOMALY_DETECTION_DEMO.gif" alt="LLM Anomaly Detection Demo" width="100%"/>
         <h3>LLM Anomaly Detection</h3>
       </a>
-      <em>Cut Mean Time To Resolution by 40%</em>
+      <em>Focused on the 'why' behind an anomaly, not just the 'what'.</em>
       <p>
         <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,python,go&theme=dark" />
       </p>
@@ -77,7 +77,7 @@
         <img src="YOUR_LINK_TO_PYASTERIX_DEMO.gif" alt="PyAsterix Demo" width="100%"/>
         <h3>PyAsterix (Open-Source)</h3>
       </a>
-      <em>Boosted query performance by 40%</em>
+      <em>Simplifying distributed data queries with a Pythonic API.</em>
       <p>
         <img src="https://skillicons.dev/icons?i=python,pandas,pytest&theme=dark" />
       </p>
@@ -85,9 +85,9 @@
     <td width="33%" valign="top" align="center">
       <a href="YOUR_PROJECT_LINK_HERE" target="_blank">
         <img src="YOUR_LINK_TO_STUDY_BUDDY_DEMO.gif" alt="Study Buddy Demo" width="100%"/>
-        <h3>Study Buddy - Your AI Study Partner</h3>
+        <h3>Study Buddy - Your AI Partner</h3>
       </a>
-      <em>Reduced context errors by 70%</em>
+      <em>An empathetic AI partner, not just a lecture bot.</em>
       <p>
         <img src="https://skillicons.dev/icons?i=react,django,python,tailwind&theme=dark" />
       </p>
